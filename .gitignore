@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Banco de dados SQLite
+*.db
+database.db
+
+# Ambiente
+.env
+instance/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
